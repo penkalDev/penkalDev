@@ -19,15 +19,15 @@ This GitHub repository serves as a portfolio of my projects and progress. Feel f
 ## 🌟 Projects
 
 
-1. **Project A - Photo gallery from NASA**
+1. **Photo gallery from NASA**
    - Description: Gallery of photos available from NASA.
    - Code: [NASA Gallery](https://github.com/penkalDev/nasa_gallery)
 
-2. **Project B - Personal Budget Manager**
+2. **Personal Budget Manager**
    - Description: An App to manage everyday expenses.
    - Code: [Link to Project B](link-to-project-b)
 
-3. **Project C - Portfolio Website**
+3. **Portfolio Website**
    - Description: My personal portfolio website created with React.
    - Code: [Link to Project C](link-to-project-c)
 
