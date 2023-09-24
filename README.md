@@ -25,11 +25,11 @@ This GitHub repository serves as a portfolio of my projects and progress. Feel f
 
 2. **Personal Budget Manager**
    - Description: An App to manage everyday expenses.
-   - Code: [Link to Project B](link-to-project-b)
+   - In progress: [Personal Budget Manager](link-to-project-b)
 
 3. **Portfolio Website**
    - Description: My personal portfolio website created with React.
-   - Code: [Link to Project C](link-to-project-c)
+   - In progress: [Portfolio](link-to-project-c)
 
 ## 💡 Skills
 
