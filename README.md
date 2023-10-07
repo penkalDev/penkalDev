@@ -25,7 +25,7 @@ This GitHub repository serves as a portfolio of my projects and progress. Feel f
 
 2. **Personal Budget Manager**
    - Description: An App to manage everyday expenses.
-   - In progress: [Personal Budget Manager](https://github.com/penkalDev/budget_manager)
+   - Code: [Personal Budget Manager](https://github.com/penkalDev/budget_manager)
 
 3. **Portfolio Website**
    - Description: My personal portfolio website created with React.
