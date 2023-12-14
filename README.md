@@ -31,6 +31,10 @@ This GitHub repository serves as a portfolio of my projects and progress. Feel f
    - Description: My personal portfolio website created with React.
    - In progress: [Portfolio](link-to-project-c)
 
+4. **Interstellar Traveler**
+   - Description: Futuristic travel agency website that offers cutting-edge space travel experiences
+   - Code: [Interstellar Traveler](https://github.com/penkalDev/interstellar_traveler)
+
 ## 💡 Skills
 
 
